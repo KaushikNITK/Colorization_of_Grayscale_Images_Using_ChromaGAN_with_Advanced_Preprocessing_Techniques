@@ -85,6 +85,10 @@ Metric Evaluation (PSNR, SSIM)
 
 ```
 .
+├── sample_images/
+│   ├── color/
+│   ├── grayscale/
+│
 ├── src/
 │   ├── preprocessing/
 │   ├── augmentation/
