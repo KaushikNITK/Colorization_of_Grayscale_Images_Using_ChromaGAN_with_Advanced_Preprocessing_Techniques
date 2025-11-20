@@ -105,8 +105,8 @@ Metric Evaluation (PSNR, SSIM)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/KaushikNITK/Colorization_of_Grayscale_Images_Using_ChromaGAN_with_Advanced_Preprocessing_Techniques.git
+cd Colorization_of_Grayscale_Images_Using_ChromaGAN_with_Advanced_Preprocessing_Techniques
 ```
 
 ### 2. Create environment (recommended)
