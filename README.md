@@ -1,0 +1,2 @@
+# Colorization_of_Grayscale_Images_Using_ChromaGAN_with_Advanced_Preprocessing_Techniques
+Project for the course of Practical Training
