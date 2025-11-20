@@ -26,7 +26,6 @@ The full research paper is included in the repository:
   * [4. Evaluation](#4-evaluation)
 * [Results](#results)
 * [Future Work](#future-work)
-* [References](#references)
 
 ---
 
